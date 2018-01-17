@@ -49,3 +49,7 @@ imap jj <Esc>
 au FileType gitcommit set tw=72
 
 set tags=./tags,tags,tags;/
+
+" Set to auto read when a file is changed from the outside
+set autoread
+
