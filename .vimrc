@@ -7,6 +7,7 @@ Plug 'altercation/vim-colors-solarized'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'vim-syntastic/syntastic'
+Plug 'nelsyeung/twig.vim'
 
 call plug#end()
 
