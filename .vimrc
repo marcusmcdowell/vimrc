@@ -1,6 +1,7 @@
 call plug#begin('~/.vim/plugged')
 
-Plug 'kien/ctrlp.vim'
+Plug 'pgdouyon/vim-niffler'
+Plug 'bling/vim-airline'
 Plug 'bling/vim-airline'
 Plug 'stanangeloff/php.vim'
 Plug 'altercation/vim-colors-solarized'
