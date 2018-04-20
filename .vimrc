@@ -2,16 +2,14 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'pgdouyon/vim-niffler'
 Plug 'bling/vim-airline'
-Plug 'bling/vim-airline'
 Plug 'stanangeloff/php.vim'
 Plug 'altercation/vim-colors-solarized'
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'vim-syntastic/syntastic'
 Plug 'nelsyeung/twig.vim'
-Plug 'xolox/vim-misc'
-Plug 'xolox/vim-notes'
-
+" Plug 'xolox/vim-misc'
+" Plug 'xolox/vim-notes'
 call plug#end()
 
 set nu
