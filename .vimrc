@@ -9,8 +9,6 @@ Plug 'mxw/vim-jsx'
 Plug 'vim-syntastic/syntastic'
 Plug 'nelsyeung/twig.vim'
 Plug 'plasticboy/vim-markdown'
-" Plug 'xolox/vim-misc'
-" Plug 'xolox/vim-notes'
 call plug#end()
 
 set nu
@@ -52,8 +50,6 @@ imap jj <Esc>
 au FileType gitcommit set tw=72
 
 set tags=./tags,tags,tags;/
-
-let g:notes_directories = ['~/Documents/Notes', '~/Documents/Shared\ Notes']
 
 " Set to auto read when a file is changed from the outside
 set autoread
