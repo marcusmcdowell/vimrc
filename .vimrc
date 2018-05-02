@@ -3,7 +3,10 @@ call plug#begin('~/.vim/plugged')
 Plug 'pgdouyon/vim-niffler'
 Plug 'bling/vim-airline'
 Plug 'stanangeloff/php.vim'
-Plug 'altercation/vim-colors-solarized'
+
+" Color scheme.
+Plug 'dracula/vim'
+
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'vim-syntastic/syntastic'
@@ -24,12 +27,10 @@ set dir=~/.vim/tmp
 set copyindent
 set nosmarttab
 
-syntax enable
+syntax on
 set hlsearch
 
-let g:solarized_termcolors=256
-set background=dark
-colorscheme solarized
+colorscheme dracula
 
 set wildignore+=.git
 
