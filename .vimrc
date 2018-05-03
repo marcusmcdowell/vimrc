@@ -7,7 +7,6 @@ Plug 'stanangeloff/php.vim'
 " Color scheme.
 Plug 'dracula/vim'
 
-Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'vim-syntastic/syntastic'
 Plug 'nelsyeung/twig.vim'
