@@ -5,7 +5,7 @@ Plug 'bling/vim-airline'
 Plug 'stanangeloff/php.vim'
 
 " Color scheme.
-Plug 'dracula/vim'
+Plug 'dracula/vim',{'as':'dracula'}
 
 Plug 'mxw/vim-jsx'
 Plug 'vim-syntastic/syntastic'
