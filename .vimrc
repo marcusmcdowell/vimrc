@@ -26,9 +26,13 @@ set dir=~/.vim/tmp
 set copyindent
 set nosmarttab
 
-syntax on
 set hlsearch
 
+" Color schema
+syntax on
+
+let g:dracula_colorterm = 1
+let g:dracula_italic = 0
 colorscheme dracula
 
 set wildignore+=.git
