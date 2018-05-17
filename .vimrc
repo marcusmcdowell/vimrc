@@ -1,8 +1,11 @@
 call plug#begin('~/.vim/plugged')
 
+Plug 'tpope/vim-sensible'
+Plug 'tpope/vim-vinegar'
 Plug 'pgdouyon/vim-niffler'
 Plug 'bling/vim-airline'
 Plug 'stanangeloff/php.vim'
+Plug 'pangloss/vim-javascript'
 
 " Color scheme.
 Plug 'dracula/vim',{'as':'dracula'}
