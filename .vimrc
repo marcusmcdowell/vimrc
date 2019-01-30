@@ -1,4 +1,5 @@
 call plug#begin('~/.vim/plugged')
+Plug 'scrooloose/nerdcommenter'
 Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-vinegar'
