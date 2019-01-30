@@ -52,7 +52,7 @@ set softtabstop=2
 imap jj <Esc>
 
 " Restrict text width of git commit messages to 72 charecters
-au FileType gitcommit set tw=72
+autocmd FileType gitcommit set textwidth=72
 
 set tags=./tags,tags,tags;/
 
