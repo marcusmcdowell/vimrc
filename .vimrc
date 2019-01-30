@@ -58,3 +58,5 @@ set tags=./tags,tags,tags;/
 " Set to auto read when a file is changed from the outside
 set autoread
 
+" Enables syntax highlighting for [JSDocs](http://usejsdoc.org).
+let g:javascript_plugin_jsdoc = 1
