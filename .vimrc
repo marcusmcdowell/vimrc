@@ -45,9 +45,6 @@ set shiftwidth=2
 set softtabstop=2
 
 
-" Select word
-nmap <Space> viw 
-
 " Press jj quickly to  
 imap jj <Esc>
 
