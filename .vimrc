@@ -1,5 +1,5 @@
 call plug#begin('~/.vim/plugged')
-
+Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-vinegar'
 Plug 'pgdouyon/vim-niffler'
