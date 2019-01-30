@@ -17,7 +17,6 @@ Plug 'plasticboy/vim-markdown'
 call plug#end()
 
 set nu
-set nocompatible
 
 autocmd! bufwritepost .vimrc source ~/.vimrc
 
