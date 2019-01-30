@@ -60,3 +60,5 @@ set autoread
 
 " Enables syntax highlighting for [JSDocs](http://usejsdoc.org).
 let g:javascript_plugin_jsdoc = 1
+
+set scrolloff=5
