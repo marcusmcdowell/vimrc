@@ -30,6 +30,7 @@ set copyindent
 set nosmarttab
 
 set hlsearch
+nnoremap <CR> :noh<CR><CR>
 
 " Color schema
 syntax on
