@@ -44,6 +44,8 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 
+" Enable yanking to the clipboard
+" set clipboard=unnamed
 
 " Press jj quickly to  
 imap jj <Esc>
