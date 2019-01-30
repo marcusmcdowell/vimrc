@@ -44,8 +44,6 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 
-" Wrap selecion in ''
-map <c-l> c''hp 
 
 " Select word
 nmap <Space> viw 
